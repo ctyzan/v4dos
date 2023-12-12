@@ -3,12 +3,12 @@ v4dos.py is a stress tool for your web.
 
 To install the dependencies:
 ```
-apt-get install python-requests
+apt-get install python3-requests
 OR
-pip install requests
+pip3 install requests
 ```
 
 For use:
 ```
-python v4dos.py "http://<url>" <threads>
+python3 v4dos.py "http://<url>" <threads>
 ```
